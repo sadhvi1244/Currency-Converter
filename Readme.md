@@ -116,7 +116,7 @@ https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.
 
 ## Screenshots
 
-![App Screenshot]((https://github.com/sadhvi1244/Currency-Converter/blob/main/Screenshot%202024-07-25%20163302.png?raw=true )
+![App Screenshot](https://github.com/sadhvi1244/Currency-Converter/blob/main/Screenshot%202024-07-25%20163302.png?raw=true )
 
 ## 🚀 About Me
 
